@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Kuma Edecha
 
-<!--
-**kumaedecha4-beep/kumaedecha4-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🌍 Web Developer (PHP & MySQL)  
+🎓 Passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🚗 Car Rental Management System
+A web-based system for managing car rentals.
+
+🔗 Project Link  
+https://github.com/kumaedecha4-beep/car-rental-management-system
+
+---
+
+## 📫 Contact Me
+
+📧 Email: kumaedecha4@gmail.com  
+🌐 GitHub: https://github.com/kumaedecha4-beep
+
+---
+
+⭐ Thank you for visiting my profile!
